@@ -1,3 +1,3 @@
-# Visit the home route on this app to see the test instructions
+# Project Configuration
 
-### You can fork this sandbox and start building your solution and share that fork link when done.
+### Just perform yarn install && yarn dev to run the project
